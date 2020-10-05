@@ -1,2 +1,6 @@
 Options -Indexes
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+#error-document
+
+ErrorDocument 404 /404.html
