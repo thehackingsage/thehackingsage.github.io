@@ -359,7 +359,7 @@ $(function () {
 	'use strict';
 	
 	// load html
-	$.get("https://bslthemes.com/glitche/bar/bar.html", function (data) {
+	$.get("#", function (data) {
         $('body').append(data);
  		console.log(data);
     });
