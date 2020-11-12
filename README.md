@@ -1,2 +1,0 @@
-# thehackingsage.github.io
- 
