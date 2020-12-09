@@ -35,8 +35,8 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: 'Source Code Pro', sans-serif;";
-  --font-family-monospace: 'Source Code Pro', monospace; }
+  --font-family-sans-serif: 'RetroComputer';font-weight:normal;;
+  --font-family-monospace: 'RetroComputer';font-weight:normal; }
 
 *,
 *::before,
@@ -55,7 +55,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'RetroComputer';font-weight:normal;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -158,7 +158,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'RetroComputer';font-weight:normal;
   font-size: 1em; }
 
 pre {
@@ -312,7 +312,7 @@ h1, h2, h3, h4, h5, h6,
   line-height: 1.2; }
 
 h1, .h1 {
-  font-size: 2.5rem; }
+  font-size: 2.2rem; }
 
 h2, .h2 {
   font-size: 2rem; }
@@ -5191,7 +5191,7 @@ a.close.disabled {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'RetroComputer';font-weight:normal;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -5276,7 +5276,7 @@ a.close.disabled {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'RetroComputer';font-weight:normal;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -8398,7 +8398,7 @@ button.bg-dark:focus {
     margin-left: auto !important; } }
 
 .text-monospace {
-  font-family: 'Source Code Pro', monospace !important; }
+  font-family: 'RetroComputer', monospace !important; }
 
 .text-justify {
   text-align: justify !important; }
@@ -8912,7 +8912,7 @@ body {
 .display-2,
 .display-3,
 .display-4 {
-  font-family: "Source Code Pro", monospace; }
+  font-family: "RetroComputer", monospace; }
   .text-white .display-1, .display-1.text-white, .text-white
   .display-2,
   .display-2.text-white, .text-white
@@ -8935,7 +8935,7 @@ body {
   color: #6f6974; }
 
 .text-mono {
-  font-family: 'Source Code Pro', monospace; }
+  font-family: 'RetroComputer';font-weight:normal; }
 
 .btn-success, .btn-success:hover, .btn-success:focus, .btn-success:active {
   color: #c1f8c2; }
