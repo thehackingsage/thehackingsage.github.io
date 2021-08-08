@@ -1,0 +1,39 @@
+<span id="a">sage@hacktronian</span>:<span id="b">~</span><span id="c">$</span> ./thehackingsage.sh
+
+ /$$      /$$            /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$$$  
+| $$$    /$$$           /$$__  $$ /$$__  $$ /$$__  $$| $$_____/  
+| $$$$  /$$$$  /$$$$$$ | $$  \__/| $$  \ $$| $$  \__/| $$        
+| $$ $$/$$ $$ /$$__  $$|  $$$$$$ | $$$$$$$$| $$ /$$$$| $$$$$     
+| $$  $$$| $$| $$  \__/ \____  $$| $$__  $$| $$|_  $$| $$__/     
+| $$\  $ | $$| $$       /$$  \ $$| $$  | $$| $$  \ $$| $$        
+| $$ \/  | $$| $$ /$$  |  $$$$$$/| $$  | $$|  $$$$$$/| $$$$$$$$  
+|__/     |__/|__/|__/   \______/ |__/  |__/ \______/ |________/  
+
+cybersecurity enthusiast / penetration tester
+
+portfolio : <a href="https://thehackingsage.com" target="_blank">https://thehackingsage.com</a>
+
+instagram : <a href="https://instagram.com/thehackingsage" target="_blank">https://instagram.com/thehackingsage</a>
+
+twitter : <a href="https://twitter.com/thehackingsage" target="_blank">https://twitter.com/thehackingsage</a>
+
+github : <a href="https://github.com/thehackingsage" target="_blank">https://github.com/thehackingsage</a>
+
+youtube : <a href="https://youtube.com/hacktronian" target="_blank">https://youtube.com/hacktronian</a>
+
+hackthebox : <a href="https://hackthebox.eu/profile/38608" target="_blank">https://hackthebox.eu/profile/38608</a>
+
+tryhackme : <a href="https://tryhackme.com/mr.sage" target="_blank">https://tryhackme.com/mr.sage</a>
+
+whatsapp : <a href="https://wa.me/+919044264043" target="_blank">+919044264043</a>
+
+telegram : <a href="https://t.me/thehackingsage" target="_blank">https://t.me/thehackingsage</a>
+
+for business enquiries : <a href="mailto:thehackingsage@protonmail.com" target="_blank">thehackingsage@protonmail.com</a>
+
+if you are looking for cybersecurity resources, training, workshop or services, 
+visit my website : <a href="https://hacktronian.in" target="_blank">https://hacktronian.in</a>
+
+follow hacktronian : <a href="https://allmylinks.com/hacktronian" target="_blank">https://allmylinks.com/hacktronian</a>
+
+<span id="k">&#169; HACKTRONIAN / https://hacktronian.in</span>
