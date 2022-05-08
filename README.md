@@ -1,1 +1,1 @@
-# http://thehackingsage.github.io
+# http://thehackingsage.com
